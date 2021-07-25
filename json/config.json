@@ -1,0 +1,6 @@
+{
+    "__comment__":"DiscordBot設定ファイル",
+    "PREFIX":"!",
+    "TOKEN":"ODU4Njk2NDg0ODI0Mjg1MjE0.YNh5aw.yNtCx_PubokirOI0ThNxV_RyyRs",
+    "OMIKUJI":["大吉","中吉","小吉","吉","凶","大凶"]
+  }
